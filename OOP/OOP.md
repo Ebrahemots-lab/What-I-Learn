@@ -20,3 +20,13 @@ like us we have two Things : what describe us (color - width - height) and what 
 in Programming (color - width - height) -> **Variables**
 (eating - Drinking) -> **Functions**
 ```
+
+Finaly : 
+```
+Program containg sets of Code or instructions that Devloper write so solve spacific problem.
+if we need computer to make something we first need to tell him that what this thing containing? and what he can do.
+we can identify this by Create a **Class** this is the blue print that we tell the computer that this class refere to something we need to 
+use in out application.
+this class have variable - Function.
+```
+
