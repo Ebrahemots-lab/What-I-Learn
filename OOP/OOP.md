@@ -16,5 +16,7 @@ it's a way to orgnize your code Simple we treate objects in the program like rea
 first we need to think about our problem which how can i make the computer identify the car and human? 
 simple we need to exaplain to computer what is person and cars contains of? 
 like us we have two Things : what describe us (color - width - height) and what we can do (eating - drinking) 
-in Programming (color - width - height) -> ** Variables **
-(eating - Drinking) -> Functions
+```
+in Programming (color - width - height) -> **Variables**
+(eating - Drinking) -> **Functions**
+```
