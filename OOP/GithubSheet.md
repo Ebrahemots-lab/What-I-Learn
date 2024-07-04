@@ -17,4 +17,4 @@
 # This is EMoji
 :+1:
 
-![musician drawio](https://github.com/Ebrahemots-lab/What-I-Learn/assets/79811814/c7e2cdc3-27cb-4652-b372-aedbe5f8415e)
+
