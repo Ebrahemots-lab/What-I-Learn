@@ -71,12 +71,8 @@ Another Example With Protective Code.
 
 Another Example 
 
-             /*
-             * Write a program that ask the user to enter a number then print number * 2 if the number is right
-             * 
-             */
-
-```
+``` C#
+              //Write program to ask the user to enter only a number
             bool isValidNumber;
             int result;
             do
