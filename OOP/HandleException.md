@@ -26,9 +26,10 @@
 ![csharp-exception-hierarchy](https://github.com/Ebrahemots-lab/What-I-Learn/assets/79811814/260bf91d-c499-4cfc-a5b1-82ab08fc4c33)
 
 ## Exception Handling Examples
-         ```
-           string[] colors = { "red", "green", "blue" };
-            Console.WriteLine(colors[6]);
+
+         ``` c#
+         string[] colors = { "red", "green", "blue" };
+         Console.WriteLine(colors[6]);
          ```
             //Notice it will not give a warining or error because the exception will be ocured in the run time
             //We are try to access index number 5 in the colors array which size is 3 
