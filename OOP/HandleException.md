@@ -5,6 +5,7 @@
              * simply you try to avoid erros ocuers in runtime 
              * 
              * Steps : 
+> [!TIP]
              * You need to Write a protective Code then you can use try catch at the end if you have doubt about 
              * your code.
              * 
@@ -31,9 +32,9 @@
          string[] colors = { "red", "green", "blue" };
          Console.WriteLine(colors[6]);
  ```
-            //Notice it will not give a warining or error because the exception will be ocured in the run time
-            //We are try to access index number 5 in the colors array which size is 3 
-            //First we need to write a protective code 
-            //we need to check if the Length of the array is larger than or equal 6 
-            //if no Do nothing.
-            //If yes print the element 
+            Notice it will not give a warining or error because the exception will be ocured in the run time
+            We are try to access index number 5 in the colors array which size is 3 
+            First we need to write a protective code 
+            we need to check if the Length of the array is larger than or equal 6 
+            if no Do nothing.
+            If yes print the element 
