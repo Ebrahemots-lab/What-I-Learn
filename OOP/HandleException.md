@@ -42,8 +42,8 @@
 
 Another Example With Protective Code. 
 
-```
- try 
+``` C#
+       try 
             {
                 string[] colors = null;
 
