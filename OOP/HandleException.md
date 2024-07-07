@@ -76,14 +76,16 @@ Another Example
              * 
              */
 
-            //bool isValidNumber;
-            //int result;
-            //do
-            //{
-            //    Console.Write("PLease enter a number: ");
+```
+            bool isValidNumber;
+            int result;
+            do
+            {
+                Console.Write("PLease enter a number: ");
 
-            //    isValidNumber = int.TryParse(Console.ReadLine(), out result);
-            //}
-            //while (!isValidNumber);
+                isValidNumber = int.TryParse(Console.ReadLine(), out result);
+            }
+            while (!isValidNumber);
 
-            //Console.WriteLine(result);
+            Console.WriteLine(result);
+```
