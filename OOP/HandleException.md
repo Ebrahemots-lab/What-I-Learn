@@ -38,3 +38,33 @@
             we need to check if the Length of the array is larger than or equal 6 
             if no Do nothing.
             If yes print the element 
+
+
+Another Example With Protective Code. 
+
+```
+ try 
+            {
+                string[] colors = null;
+
+                if (colors?.Length >= 6 || colors != null)
+                {
+                    Console.WriteLine(colors[6]);
+                }
+                else
+                {
+                    Console.WriteLine("Sorry You Enterd a wrong Index");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally 
+            {
+                Console.WriteLine("Iam Done"); 
+            }
+
+            //We Simply handle all exceptions that Posibly can occured during runtime
+            //Finaly we can add try catch for safty 
+```
