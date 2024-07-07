@@ -68,3 +68,22 @@ Another Example With Protective Code.
             //We Simply handle all exceptions that Posibly can occured during runtime
             //Finaly we can add try catch for safty 
 ```
+
+Another Example 
+
+             /*
+             * Write a program that ask the user to enter a number then print number * 2 if the number is right
+             * 
+             */
+
+            //bool isValidNumber;
+            //int result;
+            //do
+            //{
+            //    Console.Write("PLease enter a number: ");
+
+            //    isValidNumber = int.TryParse(Console.ReadLine(), out result);
+            //}
+            //while (!isValidNumber);
+
+            //Console.WriteLine(result);
