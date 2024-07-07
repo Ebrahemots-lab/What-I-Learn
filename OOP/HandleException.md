@@ -6,9 +6,9 @@
              * 
              * Steps : 
 > [!TIP]
-             * You need to Write a protective Code then you can use try catch at the end if you have doubt about 
+ >* You need to Write a protective Code then you can use try catch at the end if you have doubt about 
              * your code.
-             * 
+>   
              * What is an Exceptions?
              * simple it's like a man who warning you about something in your program to fix the problem 
              * and the user of the program shouldn't know about this Thing
